@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai4comms-marketplace",
+  "description": "Plugin marketplace for AI4comms Claude Code plugins",
+  "owner": {
+    "name": "stromy-org"
+  },
+  "plugins": [
+    {
+      "name": "ai4comms",
+      "description": "Claude Code plugin for AI4comms branded deliverables — nl-gov-data analysis + stromy-format rendering + deliverable-canvas planning + organic social campaigns over the ai4comms brand overlay",
+      "version": "0.1.0",
+      "author": {
+        "name": "William Masquelier"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/ai4comms-plugin.git"
+      }
+    }
+  ]
+}

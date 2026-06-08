@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier; DO NOT edit manually.
+_commit: 75cb640
+_src_path: scaffolds/claude-marketplace-template
+author_name: William Masquelier
+client_name: AI4comms
+client_slug: ai4comms
+github_org: stromy-org
+marketplace_name: AI4comms Plugin Marketplace
+marketplace_slug: ai4comms-marketplace
+plugin_description: Claude Code plugin for AI4comms branded deliverables
+plugin_slug: ai4comms-plugin
