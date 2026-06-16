@@ -9,7 +9,7 @@
     {
       "name": "ai4comms",
       "description": "Claude Code plugin for AI4comms branded deliverables — nl-gov-data analysis + stromy-format rendering + markdown-canvas deliverable planning + organic social campaigns over the ai4comms brand overlay",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "William Masquelier"
       },
