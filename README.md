@@ -23,13 +23,13 @@ Public marketplace for AI4comms Claude Code plugins.
 claude plugin marketplace add stromy-org/ai4comms-marketplace
 
 # Install plugin
-claude plugin install ai4comms-plugin@ai4comms-marketplace
+claude plugin install ai4comms@ai4comms-marketplace
 ```
 
 ### Post-install: dependencies (one-time)
 
 ```bash
-cd ~/.claude/plugins/cache/ai4comms-marketplace/ai4comms-plugin/0.1.0
+cd ~/.claude/plugins/cache/ai4comms-marketplace/ai4comms/0.4.18
 npm install   # if the plugin has Node dependencies
 uv sync       # if the plugin has Python dependencies
 ```
@@ -52,7 +52,7 @@ uv sync       # if the plugin has Python dependencies
 ## Updating
 
 ```bash
-claude plugin update ai4comms-plugin@ai4comms-marketplace
+claude plugin update ai4comms@ai4comms-marketplace
 ```
 
 ## Troubleshooting
