@@ -1,0 +1,19 @@
+{
+  "name": "ai4comms-marketplace",
+  "interface": {
+    "displayName": "AI4comms"
+  },
+  "plugins": [
+    {
+      "name": "ai4comms",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/ai4comms-plugin.git"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      }
+    }
+  ]
+}
