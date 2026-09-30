@@ -8,7 +8,8 @@
       "name": "ai4comms",
       "source": {
         "source": "url",
-        "url": "https://github.com/stromy-org/ai4comms-plugin.git"
+        "url": "https://github.com/stromy-org/ai4comms-plugin.git",
+        "ref": "codex"
       },
       "policy": {
         "installation": "AVAILABLE",
